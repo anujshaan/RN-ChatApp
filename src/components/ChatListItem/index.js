@@ -3,7 +3,7 @@ import { View } from 'react-native'
 
 const ChatListItem = () => {
   return (
-    <View>ChatItemList</View>
+    <View>ChatItemList </View>
   )
 }
 
