@@ -1,8 +1,9 @@
 import React from 'react'
+import { View } from 'react-native'
 
 const ChatListItem = () => {
   return (
-    <div>index</div>
+    <View>ChatItemList</View>
   )
 }
 
